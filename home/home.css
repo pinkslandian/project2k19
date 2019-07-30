@@ -1,0 +1,16 @@
+body {
+background-image: url("giphy.gif");
+ background-color:black;
+}
+
+#pic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:50%;
+  height:50%;
+  padding-top:20%;
+  padding-bottom:20%;
+
+}
+
