@@ -20,3 +20,14 @@ h1{
     text-align:center;
 
 }
+
+#links{
+    text-align:center;
+    text-decoration: none;
+    color:pink;
+    font-size:30px;
+}
+
+a {
+    color:pink;
+}

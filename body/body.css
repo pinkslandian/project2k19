@@ -1,0 +1,31 @@
+#bodyrow {
+    display:flex;
+
+}
+
+#tatcol{
+    flex:50%;
+}
+
+h1 {
+    text-align:center;
+    font-family: 'Indie Flower', cursive;
+}
+
+body{
+   background-image: linear-gradient(-90deg, red, yellow);
+}
+
+p{
+    font-family: 'Indie Flower', cursive;
+}
+
+ul{
+        font-family: 'Indie Flower', cursive;
+
+}
+
+li {
+        font-family: 'Indie Flower', cursive;
+
+}
