@@ -8,9 +8,15 @@ background-image: url("giphy.gif");
   margin-left: auto;
   margin-right: auto;
   width:50%;
-  height:50%;
-  padding-top:20%;
-  padding-bottom:20%;
+  height:100%;
+padding-bottom:5%;
+
 
 }
 
+h1{
+    font-family: 'Cinzel', serif;
+    color:pink;
+    text-align:center;
+
+}
