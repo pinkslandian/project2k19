@@ -1,0 +1,18 @@
+#box {
+    border:solid 5px;
+}
+
+p{
+     font-family: 'Indie Flower', cursive;
+     font-size:20px;
+}
+
+body{
+    background-color:#f5f76d;
+}
+
+#pics{
+    padding-right:0%;
+    padding-left:7%;
+}
+
