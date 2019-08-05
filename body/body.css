@@ -29,3 +29,14 @@ li {
         font-family: 'Indie Flower', cursive;
 
 }
+
+#links {
+     text-align:center;
+    text-decoration: none;
+    color:pink;
+    font-size:30px;
+}
+
+.tab{
+    border: solid black 3px;
+}
