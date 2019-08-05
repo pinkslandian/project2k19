@@ -1,4 +1,4 @@
-body {
+.homebody {
 background-image: url("giphy.gif");
  background-color:black;
 }
@@ -14,7 +14,7 @@ padding-bottom:5%;
 
 }
 
-h1{
+#homehead{
     font-family: 'Cinzel', serif;
     color:pink;
     text-align:center;
@@ -30,4 +30,84 @@ h1{
 
 a {
     color:pink;
+}
+
+#bodyrow {
+    display:flex;
+
+}
+
+#tatcol{
+    flex:50%;
+}
+
+#bodyhead {
+    text-align:center;
+    font-family: 'Indie Flower', cursive;
+}
+
+#bodybody{
+   background-image: linear-gradient(-90deg, red, yellow);
+}
+
+
+ul{
+        font-family: 'Indie Flower', cursive;
+
+}
+
+li {
+        font-family: 'Indie Flower', cursive;
+
+}
+
+#links {
+     text-align:center;
+    text-decoration: none;
+    color:pink;
+    font-size:30px;
+}
+
+.tab{
+    border: solid black 3px;
+}
+
+#box {
+    border:solid 5px;
+}
+
+#musicp{
+     font-family: 'Indie Flower', cursive;
+     font-size:20px;
+}
+
+.mbody{
+    background-color:#ae6bcf;
+}
+
+#pics{
+    padding-right:0%;
+    padding-left:7%;
+}
+
+
+h2{
+    text-align:center;
+
+}
+
+h5{
+    text-align:center;
+}
+
+#pbody {
+     background-image: linear-gradient(180deg,#f5f073, #f5ef62,#f2e91d, #f2e800);
+}
+
+.right{
+    float:right;
+}
+
+.stanza{
+    text-align:center;
 }
